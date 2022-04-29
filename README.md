@@ -10,7 +10,8 @@
 - Login Page
 - <img src="https://www.linkpicture.com/q/login-page.png"></img>
 
-<h3>Visit website <a href="https://vigilant-lamarr-61e6fa.netlify.app/home"></a></h3>
+Click here to Visit our Project 
+https://vigilant-lamarr-61e6fa.netlify.app/
 
 # Tech Stack Used
       -HTML
